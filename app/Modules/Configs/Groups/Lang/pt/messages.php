@@ -1,0 +1,11 @@
+<?php
+
+declare(strict_types=1);
+
+return [
+    'created' => 'Grupo criado com sucesso.',
+    'updated' => 'Grupo atualizado com sucesso.',
+    'deleted' => 'Grupo excluído com sucesso.',
+    'not_found' => 'Grupo não encontrado.',
+    'restored' => 'Grupo restaurado com sucesso.',
+];
